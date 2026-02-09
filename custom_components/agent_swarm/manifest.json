@@ -1,0 +1,12 @@
+{
+  "domain": "agent_swarm",
+  "name": "Agent Swarm",
+  "codeowners": ["@iret33"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/iret33/ha-agent-swarm",
+  "issue_tracker": "https://github.com/iret33/ha-agent-swarm/issues",
+  "iot_class": "cloud_push",
+  "requirements": [],
+  "version": "1.0.0"
+}
