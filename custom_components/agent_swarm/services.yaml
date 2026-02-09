@@ -1,0 +1,3 @@
+refresh:
+  name: Refresh
+  description: Force a data refresh from the API.
